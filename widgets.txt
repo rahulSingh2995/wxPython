@@ -1,0 +1,31 @@
+1. Frame/Window
+2. Menubar
+3. Menu
+4. Submenu
+5. ToolBar
+6. Panel
+7. Status Bar
+8. Context Menu
+
+3. Button
+BitmapButton
+4. Text Ctrl
+Static Text
+5. Radio Button
+10. check Box
+15. Toggle Button
+16. Combo Box
+gauge
+slider
+spin Ctrl
+
+11. Message Box
+12. Dialog Box
+13. About Info
+help/splitters used here
+
+static Box
+Static Line
+static Bitmap/ Icon
+
+list Box
