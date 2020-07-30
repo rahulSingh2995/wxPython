@@ -20,7 +20,8 @@ slider
 spin Ctrl
 
 11. Message Box
-12. Dialog Box
+12. Message Dialog
+File Dialog
 13. About Info
 help/splitters used here
 
